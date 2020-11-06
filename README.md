@@ -1,5 +1,3 @@
-# SQL-challenge2
-
 SQL - Employee Database: A Mystery in Two Parts
 
 
